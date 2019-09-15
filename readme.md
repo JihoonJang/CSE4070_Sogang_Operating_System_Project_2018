@@ -2,6 +2,6 @@
 
 Jang Ji Hoon, Ahn Si Hyun
 
-<h3> Implementation point</br>
+<h3>Implementation point</h3></br>
 
 All 80/80
