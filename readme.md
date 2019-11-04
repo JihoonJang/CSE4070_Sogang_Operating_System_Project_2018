@@ -1,10 +1,10 @@
-<h1>#2018 SOGANG OS Project (Pintos)</h1></br>
+# 2018 SOGANG OS Project (Pintos)</br>
 
 Jang Ji Hoon, Ahn Si Hyun
 
 
 
 
-<h3>Implementation point</h3>
+## Implementation point
 
 All 80/80
